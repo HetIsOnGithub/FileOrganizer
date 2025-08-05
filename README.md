@@ -32,6 +32,9 @@ ___________________________
 
 ->🐍 Python (All Platforms)
 1. Clone this repo:
-   ```bash
-   git clone https://github.com/YourUsername/File-Organizer.git
-   cd File-Organizer
+   
+   ->git clone https://github.com/HetIsOnGithub/FileOrganizer.git
+   ->cd File-Organizer
+   ->pip install -r requirements.txt
+   ->python file_organizer.py
+
